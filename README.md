@@ -5,7 +5,7 @@
 
 **Step 2:** Enter into the command line the following => sudo python3 nameOfTool.py ext4Image.img
 
-        - nameOfTool.py can be whatever file name you choose for tsk-dfr
+        - nameOfTool.py can be whatever file name you choose for ext4dfr
         - ext4Image.img can be whatever the name of the Ext4 image you are testing on
 
 # License
